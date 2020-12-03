@@ -1,1 +1,2 @@
-# 2020_CapstoneDesign
+# 비상시 공공시설 위치조회 앱 : Oasis
+
