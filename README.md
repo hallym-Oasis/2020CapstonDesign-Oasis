@@ -9,18 +9,19 @@
 - 팀원 : 신수진 배건희 강예정
 
 ***
+## 앱 타이틀
+
+![](C:/Users/qortn/Desktop/2020/2학기/캡스톤/자료/앱로고.png)
+“사막에 떨어진 것처럼 막막한 상황에서 당신의 오아시스를 찾아드립니다＂
+비상시 공공시설 위치조회 앱, Oasis
+
+***
 ## 프로젝트 요약 (한)
  일상생활 속에서 비상시 공공시설의 위치조회가 필요할 때 한번에 조회 및 신고할 수 있는 기능을 포함한 애플리케이션으로 크게 사이렌기능, 신고기능, 위치조회 기능으로 나뉜다. 사이렌 기능에서는 위급상황 시 사이렌이 재생되도록 하여 주변에 자신의 위험을 알릴 수 있도록 도와준다. 
 
  신고기능에서는 앱에서 버튼을 누르면 바로 112에 전화 연결과 문자 보내기 기능이 가능하고, 112 신고 시 사전에 등록해 놓은 연락처로 연락할 수 있도록 구현하였다.
 
  위치조회 기능은 원하는 공공시설의 위치 정보 버튼을 누르면 구글 맵을 통해 자신과 가까운 공공시설의 위치를 보여준다. 조회하는 공공시설을 지도상에 마커로 표시하였고, 마커 클릭 시 구글맵으로 연동되어 네비게이션 기능을 사용할 수 있다.
- 
-## 프로젝트 요약 (영)
-
- It is an application that includes a function that allows you to query and report at once when you need to query the location of public facilities in case of an emergency in everyday life. It is divided into a siren function, a report function, and a location inquiry function. In the siren function, in an emergency, a siren rings to alert the surroundings of a dangerous situation.
- In the report function, It has been implemented so that you can call and send text messages to 112 immediately by pressing a button in the app. Also, when reporting to 112, it has been implemented so that the contact information registered in advance can be contacted.
- In the location inquiry function, you can find the location of a public facility near you through the map by clicking the location information button of the desired public facility. The searched public facilities were marked on the map with markers, When the marker is clicked, it is linked to Google Maps and the navigation function can be used
  
 ***
 ## 목적 및 기대효과
