@@ -11,7 +11,7 @@
 ***
 ## 앱 타이틀
 
-![default](C:/Users/qortn/Desktop/2020/2학기/캡스톤/자료/앱로고.png)
+![앱로고](https://user-images.githubusercontent.com/71078577/101245409-14c07280-3750-11eb-8270-9f8f9a57e745.png)
 “사막에 떨어진 것처럼 막막한 상황에서 당신의 오아시스를 찾아드립니다＂
 비상시 공공시설 위치조회 앱, Oasis
 
