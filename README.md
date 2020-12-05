@@ -1,3 +1,4 @@
+# 2020-2 한림대학교 캡스톤 디자인
 # 비상시 공공시설 위치조회 앱 : Oasis
 
 ***
@@ -8,4 +9,26 @@
 - 팀원 : 신수진 배건희 강예정
 
 ***
+## 프로젝트 요약 (한)
+ 일상생활 속에서 비상시 공공시설의 위치조회가 필요할 때 한번에 조회 및 신고할 수 있는 기능을 포함한 애플리케이션으로 크게 사이렌기능, 신고기능, 위치조회 기능으로 나뉜다. 사이렌 기능에서는 위급상황 시 사이렌이 재생되도록 하여 주변에 자신의 위험을 알릴 수 있도록 도와준다. 
+
+ 신고기능에서는 앱에서 버튼을 누르면 바로 112에 전화 연결과 문자 보내기 기능이 가능하고, 112 신고 시 사전에 등록해 놓은 연락처로 연락할 수 있도록 구현하였다.
+
+ 위치조회 기능은 원하는 공공시설의 위치 정보 버튼을 누르면 구글 맵을 통해 자신과 가까운 공공시설의 위치를 보여준다. 조회하는 공공시설을 지도상에 마커로 표시하였고, 마커 클릭 시 구글맵으로 연동되어 네비게이션 기능을 사용할 수 있다.
+ 
+## 프로젝트 요약 (영)
+
+ It is an application that includes a function that allows you to query and report at once when you need to query the location of public facilities in case of an emergency in everyday life. It is divided into a siren function, a report function, and a location inquiry function. In the siren function, in an emergency, a siren rings to alert the surroundings of a dangerous situation.
+ In the report function, It has been implemented so that you can call and send text messages to 112 immediately by pressing a button in the app. Also, when reporting to 112, it has been implemented so that the contact information registered in advance can be contacted.
+ In the location inquiry function, you can find the location of a public facility near you through the map by clicking the location information button of the desired public facility. The searched public facilities were marked on the map with markers, When the marker is clicked, it is linked to Google Maps and the navigation function can be used
+ 
+***
 ## 목적 및 기대효과
+### 목적
+ - 목적 1. 각 공공시설의 위치조회 기능으로 비상시 손쉽게 공공시설의 위치를 조회하고 시설의 상세정보를 파악할 수 있도록 한다.
+ - 목적 2. 비상시 사이렌이 작동되도록 하여 주변에 자신의 위험을 알릴 수 있도록 한다.
+ - 목적 3. 문자 메시지와 112 신고기능을 통해 위급상황 시 위치 정보를 포함한 문자를 112로 전송하여 원활한 112 신고가 이루어질 수 있도록 도와준다.
+ 
+ ### 기대효과
+ - 위급상황 시 사이렌을 활용해 주변에 도움을 요청함으로써 위급상황을 바로 알릴 수 있게 해주며, 비상전화번호 저장 기능과 112 문자, 전화 기능을 이용해 쉽고 빠르게 112 신고가 가능하여 범죄도 예방할 수 있어 국민들의 **안전과 치안유지에 효과가 있을 것이다.**
+ - 공공시설의 위치를 직접 검색할 필요 없이 빠르게 버튼 하나로 조회가 가능하여 현재 자신의 위치와 가까운 공공시설의 위치를 파악하고 네비게이션 기능을 통해 길도 쉽게 찾을 수 있어 **공공시설의 활용도와 앱 필요도가 증가하는 효과를 얻을 수 있다고 생각한다.**
