@@ -43,6 +43,9 @@
 ![앱구조](https://user-images.githubusercontent.com/71078577/101245601-56055200-3751-11eb-8b8c-a7f289ea414a.png)
 
 ***
+## 앱 주요기능
+![image](https://user-images.githubusercontent.com/71078577/101270710-15442200-37bf-11eb-8a84-228411fb8760.png)
+***
 ## 개발코드
 [완성코드 링크](https://github.com/hallym-Oasis/Oasis_Android)
 
