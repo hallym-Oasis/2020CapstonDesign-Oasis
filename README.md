@@ -56,7 +56,7 @@
 - [강예정 - 위치조회_DB연동/조회](https://github.com/bananana0118/Oasis_YeaJeong)     
 
 ***
-##
+## Index
 - [회의록](https://github.com/hallym-Oasis/2020CapstonDesign-Oasis/tree/master/%EA%B4%80%EB%A6%AC)
 - [주간보고](https://github.com/hallym-Oasis/2020CapstonDesign-Oasis/tree/master/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0)
 - [설계](https://github.com/hallym-Oasis/2020CapstonDesign-Oasis/tree/master/%EC%84%A4%EA%B3%84)
