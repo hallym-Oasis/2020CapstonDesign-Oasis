@@ -51,8 +51,15 @@
 ## 앱 주요기능
 ![image](https://user-images.githubusercontent.com/71078577/101270710-15442200-37bf-11eb-8a84-228411fb8760.png)
 ***
-## 사용 데이터
+## 사용 데이터 및 출처
 ![image](https://user-images.githubusercontent.com/71078577/101270979-fc893b80-37c1-11eb-828b-f52dad2e0a79.png)
+
+### 출처
+- [공공데이터포털_공중화장실](https://www.data.go.kr/data/15012892/standard.do)
+- [공공데이터포털_무료와이파이](https://www.data.go.kr/data/15013116/standard.do)
+- [공공데이터포털_여성안심지킴이집](https://www.data.go.kr/data/15034535/standard.do)
+- [공공데이터포털_졸음쉼터](https://www.data.go.kr/data/15028203/standard.do)
+- [공공데이터포털_여성안심택배함](https://www.data.go.kr/data/15034534/standard.do)
 
 ***
 ## 개발코드
